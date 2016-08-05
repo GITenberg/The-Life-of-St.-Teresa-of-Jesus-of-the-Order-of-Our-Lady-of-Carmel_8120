@@ -1,0 +1,38 @@
+_repo: The-Life-of-St.-Teresa-of-Jesus-of-the-Order-of-Our-Lady-of-Carmel_8120
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lewis, David
+    birthdate: 1814
+    deathdate: 1895
+    gutenberg_agent_id: '41027'
+    url: http://www.gutenberg.org/2009/agents/41027
+creator:
+  author:
+    agent_name: Teresa, of Avila, Saint
+    aliases:
+    - Sanchez de Cepeda y Ahumada, Teresa
+    - Ahumada, Teresa de Cepeda y, Saint
+    - Avila, Teresa of
+    birthdate: 1515
+    deathdate: 1582
+    gutenberg_agent_id: '2651'
+    url: http://www.gutenberg.org/2009/agents/2651
+    wikipedia: http://en.wikipedia.org/wiki/Teresa_of_Avila
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8120'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teresa, of Avila, Saint, 1515-1582'
+- !lcsh 'Avila (Spain) -- Biography'
+- !lcsh 'Christian saints -- Spain -- Avila -- Biography'
+- !lcc 'BX'
+- GITenberg
+title: The Life of St. Teresa of Jesus, of the Order of Our Lady of Carmel
+url: http://www.gutenberg.org/ebooks/8120
